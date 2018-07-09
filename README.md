@@ -1,5 +1,10 @@
 # react.js-movie-search
 
+## Technologies
+
+* REACT
+* AJAX
+* JavaScript
 
 ### Demo
 
