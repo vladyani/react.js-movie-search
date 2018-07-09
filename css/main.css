@@ -1,0 +1,49 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.titleBar {
+    background-color: #000;
+    display: block;
+    color: #fff;
+    font-size: 24px;
+    padding-left: 16px;
+}
+
+input[type="button"] {
+    border-radius: 10px;
+    width: 2.5rem;
+    height: 1.5rem;
+    margin: 0.5rem;
+    outline: none;
+    border: none;
+}
+
+.play {
+    background-color: #fc4d59;
+}
+
+.view {
+    background-color: #4ad8a3;
+}
+
+.movieList {
+    background-color: #efefef;
+}
+
+.movieList p {
+    width: 40%;
+}
+
+
+img {
+    border-radius: 20px;
+}
+
+
+h3,
+p {
+    margin: 0.5rem;
+}
